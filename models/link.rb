@@ -1,5 +1,5 @@
 require 'data_mapper'
-require 'dm_postgres-adapter'
+require 'dm-postgres-adapter'
 
 class Link
 
